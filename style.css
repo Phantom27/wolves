@@ -1,0 +1,15 @@
+.pic{
+  width: 700px;
+}
+.image{
+  position: relative;
+  width: 100%;
+}
+.kw {
+  position: absolute;
+  top: 320px;
+  left:0;
+  width: 100%;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
